@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 {
 	"bscloudservice": {
 		"version": "1.0.1",
 		"url":"https://raw.githubusercontent.com/fait-5/BiirtualScore-updates/main/BSCloudService/BsCloudService-1.0.1.zip",
-		"checksum":"F6651F504EFC6FA8DE90674F2BFE0B99EC93088B47A6CB65BE5EFE65294DB1AE"
+		"checksum":"BD6C30B00C1F4449B499931BDC9C49F08CE8486F61EAE0D2266CFA749EBCD6FF"
 	}
-=======
-{
-	"bscloudservice": {
-		"version": "1.0.0",
-		"url":"https://raw.githubusercontent.com/fait-5/BiirtualScore-updates/main/BSCloudService/BsCloudService-1.0.0.zip",
-		"checksum":"48AABA94D15E952D79AC2EF9CA20D260EB7D45870D766A9CE2B004590A379291"
-	}
->>>>>>> d9da20d16aa40d8b78ba04b42988bb3067bed686
 }
