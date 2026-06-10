@@ -1,7 +1,7 @@
 {
 	"bscloudservice": {
-		"version": "1.2.14.0",
+		"version": "1.2.15.0",
 		"url":"https://raw.githubusercontent.com/fait-5/BiirtualScore-updates/main/BSCloudService/Update.zip",
-		"checksum":"2b0ee314e7fa1637d7b848a0db9d55bc9f7979fea8e301305dff202d26c73aef"
+		"checksum":"b5443eac410af6b73fd665281351b92bff8b6214d66afd8eb623ba3d24b52b63"
 	}
 }
